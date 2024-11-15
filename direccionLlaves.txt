@@ -1,0 +1,2 @@
+/home/danilo/.ssh/id_rsa.pub
+/home/danilo/.ssh/id_rsa
